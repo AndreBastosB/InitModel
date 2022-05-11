@@ -3,7 +3,7 @@ import tkinter.messagebox as tkMessageBox
 import sqlite3
 
 root = Tk()
-root.title("Python: Simple Inventory System")
+root.title("Inventory System")
  
 width = 640
 height = 480
