@@ -108,6 +108,7 @@ def Register():
             lbl_result2.config(text="Successfully Created!", fg="black")
         cursor.close()
         conn.close()
+        
 def Login():
     Database()
     if USERNAME.get == "" or PASSWORD.get() == "":
