@@ -61,6 +61,7 @@ data1 = load_workbook (csvToXlsx2)
 data2 = data1 ['Sheet1'] 
 valor = data2.cell(row=linha, column=1).value
 
+#ASSIM TA UMA MERDA - ALTERAR DIA 12/05!!!
 # while valor is not None:
 while linha <= 739:
 
