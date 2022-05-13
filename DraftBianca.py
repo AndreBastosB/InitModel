@@ -171,14 +171,3 @@ print ('\n')
 print ("Casos de " + str(TarcisoSilvaEJoseRibamarDBCasos[0]))
 print (TarcisoSilvaEJoseRibamar)
 
-
-
-
-
-
-
-
-
-
-
-
